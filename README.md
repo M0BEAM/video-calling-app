@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# video-calling-app
+video calling app using Stream sdk
+>>>>>>> 71c604ab321d22c3258334a92d0b7f9f3e9066eb
