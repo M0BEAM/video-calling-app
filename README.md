@@ -1,6 +1,6 @@
 
 # Video Calling App using Stream Video React SDK
-
+![Chat App Logo](./calling-app.png)
 This project demonstrates how to implement a video calling app using the `@stream-io/video-react-sdk`. It allows users to join video calls, display participant layouts, and includes basic call controls.
 
 ## Features
@@ -54,12 +54,11 @@ Once the credentials are set up, run the app using:
 npm run dev
 ```
 
-This will start the development server. Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the app in action.
+This will start the development server. Open your browser and go to [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to see the app in action.
 
 ## Project Structure
 
 - `App.tsx`: The main entry point that sets up the video client and call.
-- `MyUILayout.tsx`: Custom UI layout that displays participants and controls.
 
 ## Dependencies
 
